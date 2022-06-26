@@ -78,4 +78,5 @@ machine learning y de negocio en foro de dudas***
 
 ---<<<ENLACES INTERES>>>---
 1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
+2. enlace a arhivo PROYECTO_ENTREGA1.tex, overleaf: https://www.overleaf.com/5998522951rfchkzvnzxtf
 
