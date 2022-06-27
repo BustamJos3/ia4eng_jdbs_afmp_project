@@ -57,14 +57,15 @@ de los datasets
 ------**que hara c/u**------
 JDBS
 1. repositorio en github
-1.1 aprender a crear
-1.2 aprender a agregar al repo
-1.3 aprender a subir cambios
+1.1 aprender a crear**
+1.2 aprender a agregar al repo**
+1.3 aprender a subir cambios**
 1.4 explicar puntos anteriores a AFMP
 1.4.1 agregar enlaces de recursos que sirvan para entender y 
-aprender por cuenta propia
+aprender por cuenta propia**
+1.5 aprender a enlazar repositorio local con repositorio remoto (en github)**
 2. al finalizar aprendizaje github, probar git GUI y ver qué tan 
-útil puede ser
+útil puede ser**
 
 
 AFMP
