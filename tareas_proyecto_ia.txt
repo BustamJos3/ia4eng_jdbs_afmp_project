@@ -66,7 +66,7 @@ aprender por cuenta propia**
 1.5 aprender a enlazar repositorio local con repositorio remoto (en github)**
 2. al finalizar aprendizaje github, probar git GUI y ver qué tan 
 útil puede ser**
-
+3. buscar datasets
 
 AFMP
 1. revisar que duda sobre puntos de entrega 1 proyecto final se haya hecho o no***
@@ -76,6 +76,7 @@ del proyecto final en foro de dudas***
 machine learning y de negocio en foro de dudas***
 4. preguntar en foro cual de los datasets seleccionados nos sirven
 6. ver clase de intro conceptual github: 16/6/22
+7. buscar datasets
 
 ---<<<ENLACES INTERES>>>---
 1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
