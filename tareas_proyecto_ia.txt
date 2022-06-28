@@ -1,0 +1,83 @@
+CONVENCIONES
+**iniciales_nombre_completo: encargado a alguien
+***: hecho
+~~: logrado
+
+
+---TAREAS_IA---
+
+--objetivos--
+-macro_tareas-
+1. definir un problema predictivo
+
+2. obtener un dataset para resolverlo
+
+3. realizar el preprocesado y limpieza de datos
+
+4. encontrar los mejores hiperparámetros para DOS algoritmos predictivos
+
+5. encontrar los mejores hiperparámetros para DOS combinaciones de algoritmo 
+no supervisado + algoritmo predictivo
+
+6. realizar las curvas de aprendizaje para cada uno de los cuatro casos anteriores
+
+7. realizar una evaluación diagnóstica que contenga:
+
+7.1 para cada uno de los cuatro casos anteriores un diagnóstico de 
+overfitting/bias etc.
+
+7.2 una recomendación justificada de qué pasos a seguir si tuvieras que intentar 
+mejorar el desempeño obtenido.
+
+7.3 una evaluación sobre los retos y condiciones para desplegar en producción un 
+modelo (como establecerías el nivel de desempeño mínimo para desplegar en producción, 
+cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño 
+en producción)
+
+-micro_tareas-
+---ENTREGA 1
+1. empezar a ver cómo se puede definir bien un problema predictivo
+2. describir el problema predictivo a resolver
+3. definir el dataset
+3.1 ver lo relevante sobre eso en las clases pasadas donde companneros pidieron asesoria
+sobre sus datasets-->ver titulos de temas de datasets mostrados en clase para asesoria, puede servir 
+para definir el tema en donde podemos buscar el que nos sirva.--> poner fechas de clases grabadas donde 
+se da asesoria sobre datasets**JDBS
+3.2 buscar algunos datasets que parezcan adecuados en www.kaggle.com
+4. métricas de desempeño (de machine learning, de negocio)
+5. criterio para definir buen desempeño en produccion
+6. ver clase de intro conceptual github 
+
+--->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
+de los datasets
+
+--medios--
+1. creacion de repositiorios
+
+------**que hara c/u**------
+JDBS
+1. repositorio en github
+1.1 aprender a crear**
+1.2 aprender a agregar al repo**
+1.3 aprender a subir cambios**
+1.4 explicar puntos anteriores a AFMP
+1.4.1 agregar enlaces de recursos que sirvan para entender y 
+aprender por cuenta propia**
+1.5 aprender a enlazar repositorio local con repositorio remoto (en github)**
+2. al finalizar aprendizaje github, probar git GUI y ver qué tan 
+útil puede ser**
+
+
+AFMP
+1. revisar que duda sobre puntos de entrega 1 proyecto final se haya hecho o no***
+2. preguntar por explicaciones con ejemplos sobre los otros 3 puntos (1,2,3) de la entrega 1 
+del proyecto final en foro de dudas***
+3. preguntar por biliografia o recursos para ver métricas de desempeño 
+machine learning y de negocio en foro de dudas***
+4. preguntar en foro cual de los datasets seleccionados nos sirven
+6. ver clase de intro conceptual github: 16/6/22
+
+---<<<ENLACES INTERES>>>---
+1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
+2. enlace a arhivo PROYECTO_ENTREGA1.tex, overleaf: https://www.overleaf.com/5998522951rfchkzvnzxtf
+
