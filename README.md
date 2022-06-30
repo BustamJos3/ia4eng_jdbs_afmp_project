@@ -6,7 +6,7 @@ repositorio para el proyecto del curso Inteligencia Artificial para las Ciencias
 ### Integrantes
 1. José David Bustamante Sierra, c.c: 1035440377, ingeniería mecánica.
 
-2. Andrea Fernanda Muegues Pedraza, c.c: 01234, ingeniería mecánica.
+2. Andrea Fernanda Muegues Pedraza, c.c: 0123456789, ingeniería mecánica.
 
 ### Fuente de los datos usados
 
