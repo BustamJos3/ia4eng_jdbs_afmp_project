@@ -74,13 +74,14 @@ AFMP
 del proyecto final en foro de dudas***
 3. preguntar por bibliografia o recursos para ver métricas de desempeño 
 machine learning y de negocio en foro de dudas***
-4. preguntar en foro cual de los datasets seleccionados nos sirven
-6. ver clase de intro conceptual github: 16/6/22
-7. buscar datasets
-7.1 ver clases de datasets
+4. preguntar en foro cual de los datasets seleccionados nos sirven*** (jdbs)
+6. ver clase de intro conceptual github: 16/6/22***
+7. buscar datasets***
+7.1 ver clases de datasets***
 
 ---<<<ENLACES INTERÉS>>>---
 1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
 2. enlace a arhivo PROYECTO_ENTREGA1.tex, overleaf: https://www.overleaf.com/5998522951rfchkzvnzxtf
---DATASETS
-1. Enlace al dataset para predecir los incumplimientos de créditos de american express: https://www.kaggle.com/competitions/amex-default-prediction {+ tentativo}
+3. Enlace al dataset para predecir los incumplimientos de créditos de american express: https://www.kaggle.com/competitions/amex-default-prediction
+4. Enlace al dataset para predecir los resultados de un torneo de baloncesto de la NCAA: https://www.kaggle.com/competitions/mens-march-mania-2022
+
