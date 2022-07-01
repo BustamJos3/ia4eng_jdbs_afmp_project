@@ -41,29 +41,20 @@ en producción)
 ### micro_tareas
 
 #### ENTREGA 1
-1. empezar a ver cómo se puede definir bien un problema predictivo
 2. describir el problema predictivo a resolver
 3. definir el dataset
-3.1 ver lo relevante sobre eso en las clases pasadas donde companneros pidieron asesoria
-sobre sus datasets-->ver titulos de temas de datasets mostrados en clase para asesoria, puede servir 
-para definir el tema en donde podemos buscar el que nos sirva.--> poner fechas de clases grabadas donde 
-se da asesoria sobre datasets (jdbs)
 3.2 buscar algunos datasets que parezcan adecuados en www.kaggle.com
 4. métricas de desempeño (de machine learning, de negocio)
 5. criterio para definir buen desempeño en produccion
-6. ver clase de intro conceptual github (HECHO)
+6. actualizar .pdf con lo pedido en rúbricas
 
 --->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
 de los datasets
 
---medios--
-1. creacion de repositiorios
-
 ------**que hara c/u**------
-1. preguntar en foro cual de los datasets seleccionados nos sirven (jdbs)
-2. buscar datasets(***)
 
 # ENLACES INTERÉS
+## Recursos varios
 1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
 2. enlace a arhivo PROYECTO_ENTREGA1.tex, overleaf: https://www.overleaf.com/5998522951rfchkzvnzxtf
 ## DATASETS
