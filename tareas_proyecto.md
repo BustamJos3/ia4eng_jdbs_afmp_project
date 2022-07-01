@@ -1,13 +1,17 @@
-CONVENCIONES
-**iniciales_nombre_completo: encargado a alguien
-***: hecho
-~~: logrado
+_CONVENCIONES_
+```
+(iniciales_nombre_completo): encargado a alguien
+(***): hecho
+(~~): logrado
+```
 
 
----TAREAS_IA---
+# TAREAS_IA
 
---objetivos--
--macro_tareas-
+## Objetivos
+
+### macro_tareas
+
 1. definir un problema predictivo
 
 2. obtener un dataset para resolverlo
@@ -34,19 +38,20 @@ modelo (como establecerías el nivel de desempeño mínimo para desplegar en pro
 cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño 
 en producción)
 
--micro_tareas-
----ENTREGA 1
+### micro_tareas
+
+#### ENTREGA 1
 1. empezar a ver cómo se puede definir bien un problema predictivo
 2. describir el problema predictivo a resolver
 3. definir el dataset
 3.1 ver lo relevante sobre eso en las clases pasadas donde companneros pidieron asesoria
 sobre sus datasets-->ver titulos de temas de datasets mostrados en clase para asesoria, puede servir 
 para definir el tema en donde podemos buscar el que nos sirva.--> poner fechas de clases grabadas donde 
-se da asesoria sobre datasets**JDBS
+se da asesoria sobre datasets (jdbs)
 3.2 buscar algunos datasets que parezcan adecuados en www.kaggle.com
 4. métricas de desempeño (de machine learning, de negocio)
 5. criterio para definir buen desempeño en produccion
-6. ver clase de intro conceptual github 
+6. ver clase de intro conceptual github (HECHO)
 
 --->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
 de los datasets
@@ -55,15 +60,16 @@ de los datasets
 1. creacion de repositiorios
 
 ------**que hara c/u**------
-1. preguntar en foro cual de los datasets seleccionados nos sirven*** (jdbs)
-2. buscar datasets***
+1. preguntar en foro cual de los datasets seleccionados nos sirven (jdbs)
+2. buscar datasets(***)
 
----<<<ENLACES INTERÉS>>>---
+# ENLACES INTERÉS
 1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
 2. enlace a arhivo PROYECTO_ENTREGA1.tex, overleaf: https://www.overleaf.com/5998522951rfchkzvnzxtf
---DATASETS--
-1. incumplimientos de créditos de american express: https://www.kaggle.com/competitions/amex-default-prediction
-2. predecir los resultados de un torneo de baloncesto de la NCAA: https://www.kaggle.com/competitions/mens-march-mania-2022
-
-
-
+## DATASETS
+1. [incumplimientos de créditos de american express](https://www.kaggle.com/competitions/amex-default-prediction)
+2. [predecir los resultados de un torneo de baloncesto de la NCAA](https://www.kaggle.com/competitions/mens-march-mania-2022)
+3. [Dog Breed Identification, determine the breed of a dog in an image](https://www.kaggle.com/competitions/dog-breed-identification/data?select=labels.csv)
+4. [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data?select=train.csv)
+5. [Predicting Molecular Properties, can you measure the magnetic interactions between a pair of atoms?](https://www.kaggle.com/competitions/champs-scalar-coupling/data?select=mulliken_charges.csv)
+6. [Recruit Restaurant Visitor Forecasting, predict how many future visitors a restaurant will receive](https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/data)
