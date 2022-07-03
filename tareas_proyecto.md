@@ -60,7 +60,6 @@ de los datasets
 ## DATASETS
 1. [incumplimientos de créditos de american express](https://www.kaggle.com/competitions/amex-default-prediction)
 2. [predecir los resultados de un torneo de baloncesto de la NCAA](https://www.kaggle.com/competitions/mens-march-mania-2022)
-3. [Dog Breed Identification, determine the breed of a dog in an image](https://www.kaggle.com/competitions/dog-breed-identification/data?select=labels.csv)
-4. [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data?select=train.csv)
-5. [Predicting Molecular Properties, can you measure the magnetic interactions between a pair of atoms?](https://www.kaggle.com/competitions/champs-scalar-coupling/data?select=mulliken_charges.csv)
-6. [Recruit Restaurant Visitor Forecasting, predict how many future visitors a restaurant will receive](https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/data)
+3. [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data?select=train.csv)
+4. [Predicting Molecular Properties, can you measure the magnetic interactions between a pair of atoms?](https://www.kaggle.com/competitions/champs-scalar-coupling/data?select=mulliken_charges.csv)
+5. [Recruit Restaurant Visitor Forecasting, predict how many future visitors a restaurant will receive](https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/data)
