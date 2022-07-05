@@ -55,12 +55,11 @@ de los datasets
 
 # ENLACES INTERÉS
 ## Recursos varios
-1. Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
-2. enlace a arhivo PROYECTO_ENTREGA1.tex, overleaf: https://www.overleaf.com/5998522951rfchkzvnzxtf
+- [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode)
+- [Performance Measures for Multi-Class Problems](https://www.datascienceblog.net/post/machine-learning/performance-measures-multi-class-problems/)
+## Archivos de entregas PDF
+- enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
+- enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
 ## DATASETS
-1. [incumplimientos de créditos de american express](https://www.kaggle.com/competitions/amex-default-prediction)
-2. [predecir los resultados de un torneo de baloncesto de la NCAA](https://www.kaggle.com/competitions/mens-march-mania-2022)
-3. [Dog Breed Identification, determine the breed of a dog in an image](https://www.kaggle.com/competitions/dog-breed-identification/data?select=labels.csv)
-4. [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data?select=train.csv)
-5. [Predicting Molecular Properties, can you measure the magnetic interactions between a pair of atoms?](https://www.kaggle.com/competitions/champs-scalar-coupling/data?select=mulliken_charges.csv)
-6. [Recruit Restaurant Visitor Forecasting, predict how many future visitors a restaurant will receive](https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/data)
+- [incumplimientos de créditos de american express](https://www.kaggle.com/competitions/amex-default-prediction)
+- [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data?select=train.csv)
