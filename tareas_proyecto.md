@@ -57,7 +57,7 @@ de los datasets
 ## Recursos varios
 - Git and GitHub Tutorial For Beginners | Full Course [2021]: https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
 ## Archivos de entregas PDF
-- enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/5998522951rfchkzvnzxtf)
+- enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
 ## DATASETS
 - [incumplimientos de créditos de american express](https://www.kaggle.com/competitions/amex-default-prediction)
