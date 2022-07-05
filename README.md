@@ -9,11 +9,4 @@ repositorio para el proyecto del curso Inteligencia Artificial para las Ciencias
 2. Andrea Fernanda Muegues Pedraza, c.c: 1102381554, ingeniería mecánica.
 
 ### Fuente de los datos usados
-
-
-### Getting started with dataset
-
-
-### Videos en YouTube
-
-
+[Forest Cover Type Prediction - Use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data)
