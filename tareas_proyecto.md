@@ -11,13 +11,6 @@ _CONVENCIONES_
 ## Objetivos
 
 ### macro_tareas
-
-1. definir un problema predictivo
-
-2. obtener un dataset para resolverlo
-
-3. realizar el preprocesado y limpieza de datos
-
 4. encontrar los mejores hiperparámetros para DOS algoritmos predictivos
 
 5. encontrar los mejores hiperparámetros para DOS combinaciones de algoritmo 
@@ -40,13 +33,10 @@ en producción)
 
 ### micro_tareas
 
-#### ENTREGA 1
-2. describir el problema predictivo a resolver
-3. definir el dataset
-3.2 buscar algunos datasets que parezcan adecuados en www.kaggle.com
-4. métricas de desempeño (de machine learning, de negocio)
-5. criterio para definir buen desempeño en produccion
-6. actualizar .pdf con lo pedido en rúbricas
+#### ENTREGA 2
+1. realizar material para empezar a hacer video (JDBS, AFMP)
+2. crear colabs para trabajo con datasets y enlazarlos a repos (JDBS)
+3. crear .tex para informe y agregar enlace a sección Enlaces de interés[con portada y posibles secciones] (AFMP)
 
 --->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
 de los datasets
