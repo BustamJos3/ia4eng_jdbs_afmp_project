@@ -37,6 +37,15 @@ en producción)
 1. realizar material para empezar a hacer video (JDBS, AFMP)
 2. crear colabs para trabajo con datasets y enlazarlos a repos (JDBS)
 3. crear .tex para informe y agregar enlace a sección Enlaces de interés[con portada y posibles secciones] (AFMP)
+4. Hacer informe ENTREGA 2 (JDBS, AFMP)
+--->EN PROYECTO (con dataset)
+1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
+2. Inducción de datos NaN--->Qué datos serán datos NaN
+3. Criterio de llenado de datos NaN
+4. Evaluacion de correlación entre columnas (variables) a través de la matriz de gráficas de correlación
+5. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
+6. ..
+7. ..
 
 --->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
 de los datasets
