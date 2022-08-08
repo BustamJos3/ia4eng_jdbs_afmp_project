@@ -36,7 +36,7 @@ en producción)
 #### ENTREGA 2
 1. realizar material para empezar a hacer video (JDBS, AFMP)
 2. crear colabs para trabajo con datasets y enlazarlos a repos (JDBS)
-3. crear .tex para informe y agregar enlace a sección Enlaces de interés[con portada y posibles secciones] (AFMP)
+3. crear .tex para informe y agregar enlace a sección Enlaces de interés[con portada y posibles secciones] (AFMP) (***)
 4. Hacer informe ENTREGA 2 (JDBS, AFMP)
 --->EN PROYECTO (con dataset)
 1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
@@ -59,6 +59,8 @@ de los datasets
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
+- enlace a arhivo PROYECTO_ENTREGA2.tex **_definitivo_**, overleaf : [Entrega 2](https://www.overleaf.com/1932649754ffysfmrjxnkk)
+
 ## DATASETS
 - [incumplimientos de créditos de american express](https://www.kaggle.com/competitions/amex-default-prediction)
 - [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data?select=train.csv)
