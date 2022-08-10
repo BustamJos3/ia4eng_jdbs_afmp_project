@@ -35,17 +35,18 @@ en producción)
 
 #### ENTREGA 2
 1. realizar material para empezar a hacer video (JDBS, AFMP)
-2. crear colabs para trabajo con datasets y enlazarlos a repos (JDBS)
-3. crear .tex para informe y agregar enlace a sección Enlaces de interés[con portada y posibles secciones] (AFMP) (***)
-4. Hacer informe ENTREGA 2 (JDBS, AFMP)
+2. crear colabs para trabajo con datasets (JDBS)[exploracion creado***]
+3. enlazarlos con repos
+5. Hacer informe ENTREGA 2 (JDBS, AFMP)
 --->EN PROYECTO (con dataset)
-1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
-2. Inducción de datos NaN--->Qué datos serán datos NaN
-3. Criterio de llenado de datos NaN
-4. Evaluacion de correlación entre columnas (variables) a través de la matriz de gráficas de correlación
-5. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
-6. ..
+1. importar datos sin descargarlos (JDBS)***
+2. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
+3. Inducción de datos NaN--->Qué datos serán datos NaN
+4. Criterio de llenado de datos NaN
+5. Evaluacion de correlación entre columnas (variables) a través de la matriz de gráficas de correlación
+6. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
 7. ..
+8. ..
 
 --->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
 de los datasets
@@ -56,6 +57,7 @@ de los datasets
 ## Recursos varios
 - [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode)
 - [Performance Measures for Multi-Class Problems](https://www.datascienceblog.net/post/machine-learning/performance-measures-multi-class-problems/)
+- [How To Load Kaggle Dataset In Your Colab/Jupyter Notebook Without Downloading](https://buggyprogrammer.com/load-kaggle-dataset-in-colab-or-jupyter/)
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
