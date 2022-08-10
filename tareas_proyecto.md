@@ -36,7 +36,7 @@ en producción)
 #### ENTREGA 2
 1. realizar material para empezar a hacer video (JDBS, AFMP)
 2. crear colabs para trabajo con datasets (JDBS)[exploracion creado***]
-3. enlazarlos con repos
+3. enlazarlos con repos (JDBS)[exploracion enlazado***]
 5. Hacer informe ENTREGA 2 (JDBS, AFMP)
 --->EN PROYECTO (con dataset)
 1. importar datos sin descargarlos (JDBS)***
@@ -58,6 +58,7 @@ de los datasets
 - [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode)
 - [Performance Measures for Multi-Class Problems](https://www.datascienceblog.net/post/machine-learning/performance-measures-multi-class-problems/)
 - [How To Load Kaggle Dataset In Your Colab/Jupyter Notebook Without Downloading](https://buggyprogrammer.com/load-kaggle-dataset-in-colab-or-jupyter/)
+- [Using Google Colab with GitHub: Saving Notebooks To GitHub or Drive](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O)
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
