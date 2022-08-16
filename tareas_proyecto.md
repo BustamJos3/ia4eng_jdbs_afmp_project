@@ -3,6 +3,7 @@ _CONVENCIONES_
 (iniciales_nombre_completo): encargado a alguien
 (***): hecho
 (~~): logrado
+(--_): falta por revisar
 ```
 
 
@@ -55,13 +56,20 @@ de los datasets
 ------**que hara c/u**------
 
 # ENLACES INTERÉS
-## Recursos varios
+## Misceláneo
 - [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode)
 - [Performance Measures for Multi-Class Problems](https://www.datascienceblog.net/post/machine-learning/performance-measures-multi-class-problems/)
 - [How To Load Kaggle Dataset In Your Colab/Jupyter Notebook Without Downloading](https://buggyprogrammer.com/load-kaggle-dataset-in-colab-or-jupyter/)
 - [Using Google Colab with GitHub: Saving Notebooks To GitHub or Drive](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O)
 - [IO tools (text, CSV, HDF5, …): Iterating through files chunk by chunk](https://pandas.pydata.org/docs/user_guide/io.html)
 - [Welcome to pytablewriter’s documentation!: python module to write tables in several formats](https://pytablewriter.readthedocs.io/en/latest/index.html#welcome-to-pytablewriter-s-documentation)
+### ScikitLearn documentación
+- [Para determinar las variables más importantes (columnas, features, etc): 4.2. Permutation feature importance](https://scikit-learn.org/stable/modules/permutation_importance.html)
+- [Para seleccionar las variables en función de su grado de importancia: 1.13. Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
+- [---> Documentación acerca de conducto de transformaciones-Pipeline of transforms-sklearn.pipeline.Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline)
+- [---> Documentación acerca del encadenamiento entre transformaciones y clasificadores: 6.1. Pipelines and composite estimators](https://scikit-learn.org/stable/modules/compose.html#pipeline)
+- [(--_)---> Manera rápida de hacer una Pipeline-sklearn.pipeline.make_pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html#sklearn.pipeline.make_pipeline)
+- [Para plotear variables de manera independiente y ver su comportamiento respecto a la variable objetivo: 4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
