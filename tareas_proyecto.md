@@ -68,6 +68,7 @@ de los datasets
 - [---> Documentación acerca de conducto de transformaciones-Pipeline of transforms-sklearn.pipeline.Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline)
 - [---> Documentación acerca del encadenamiento entre transformaciones y clasificadores: 6.1. Pipelines and composite estimators](https://scikit-learn.org/stable/modules/compose.html#pipeline)
 - [(--_)---> Manera rápida de hacer una Pipeline-sklearn.pipeline.make_pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html#sklearn.pipeline.make_pipeline)
+- [(--_)--->Ejemplo de feature importance con forest of decision tress: Feature importances with a forest of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html#sphx-glr-auto-examples-ensemble-plot-forest-importances-py)
 - [Para plotear variables de manera independiente y ver su comportamiento respecto a la variable objetivo: 4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
