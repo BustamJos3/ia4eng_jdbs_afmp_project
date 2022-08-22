@@ -10,3 +10,5 @@ repositorio para el proyecto del curso Inteligencia Artificial para las Ciencias
 
 ### Fuente de los datos usados
 [Forest Cover Type Prediction - Use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data)
+
+## Obtener datos y hacerlos disponibles

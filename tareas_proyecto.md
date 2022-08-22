@@ -39,7 +39,7 @@ en producción)
 2. crear colabs para trabajo con datasets (JDBS)[exploracion creado***]
 3. enlazarlos con repos (JDBS)[exploracion enlazado***]
 5. Hacer informe ENTREGA 2 (JDBS, AFMP)
--> Hacer introducción (AFMP)
+-> Hacer introducción (AFMP)***
 ##### EN PROYECTO (con dataset)
 1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
 2. Inducción de datos NaN--->Qué datos serán datos NaN
@@ -48,11 +48,6 @@ en producción)
 5. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
 6. ..
 7. ..
-
---->creo que lo mejor es ir viendo datasets y tratar de definir el problema según el contexto
-de los datasets
-
-------**que hara c/u**------
 
 # ENLACES INTERÉS
 ## Misceláneo
@@ -70,6 +65,12 @@ de los datasets
 - [(--_)---> Manera rápida de hacer una Pipeline-sklearn.pipeline.make_pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html#sklearn.pipeline.make_pipeline)
 - [(--_)--->Ejemplo de feature importance con forest of decision tress: Feature importances with a forest of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html#sphx-glr-auto-examples-ensemble-plot-forest-importances-py)
 - [Para plotear variables de manera independiente y ver su comportamiento respecto a la variable objetivo: 4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)
+#### Feature selection therory
+- [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
+- [Recursive Feature Elimination (RFE) for Feature Selection in Python](https://machinelearningmastery.com/rfe-feature-selection-in-python/)
+- [How to Calculate Feature Importance With Python](https://machinelearningmastery.com/calculate-feature-importance-with-python/)
+- [(--_)--->Feature Selection Techniques Easily Explained | Machine Learning](https://www.youtube.com/watch?v=EqLBAmtKMnQ&ab_channel=KrishNaik)
+- [This module provides a bridge between Scikit-Learn’s machine learning methods and pandas-style Data Frames: sklearn-pandas 1.5.0](https://pypi.org/project/sklearn-pandas/1.5.0/)
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
