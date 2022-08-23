@@ -45,3 +45,5 @@ with ZipFile(file_name, 'r') as zip:
 df_train = pd.read_csv('train.csv')
 df_train.head()
 ```
+## Videos
+* [Video segunda entrega](https://youtu.be/uUKFDS-gIwA)
