@@ -8,9 +8,6 @@ _CONVENCIONES_
 
 
 # TAREAS_IA
-
-## Objetivos
-
 ### macro_tareas
 4. encontrar los mejores hiperparámetros para DOS algoritmos predictivos
 
@@ -34,18 +31,10 @@ en producción)
 
 ### micro_tareas
 
-#### ENTREGA 2(~~)
-1. realizar material para empezar a hacer video (JDBS, AFMP)
-2. crear colabs para trabajo con datasets (JDBS)[exploracion creado***]
-3. enlazarlos con repos (JDBS)[exploracion enlazado***]
-5. Hacer informe ENTREGA 2 (JDBS, AFMP)
--> Hacer introducción (AFMP)***
+#### ENTREGA FINAL
 ##### EN PROYECTO (con dataset)
 1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
-2. Inducción de datos NaN--->Qué datos serán datos NaN***
-3. Criterio de llenado de datos NaN->(1. investigar critérios a la hora de reemplazar valores nulos o NaN)(AFMP)***
-4. Evaluacion de correlación entre columnas (variables) a través de la matriz de gráficas de correlación***
-5. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
+2. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
 
 # ENLACES INTERÉS
 ## Misceláneo
