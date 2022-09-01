@@ -1,3 +1,41 @@
+_CONVENCIONES_
+```
+(iniciales_nombre_completo): encargado a alguien
+(***): hecho
+(~~): logrado
+(--_): falta por revisar
+```
+
+
+# TAREAS_IA
+### macro_tareas
+4. encontrar los mejores hiperparámetros para DOS algoritmos predictivos
+
+5. encontrar los mejores hiperparámetros para DOS combinaciones de algoritmo 
+no supervisado + algoritmo predictivo
+
+6. realizar las curvas de aprendizaje para cada uno de los cuatro casos anteriores
+
+7. realizar una evaluación diagnóstica que contenga:
+
+7.1 para cada uno de los cuatro casos anteriores un diagnóstico de 
+overfitting/bias etc.
+
+7.2 una recomendación justificada de qué pasos a seguir si tuvieras que intentar 
+mejorar el desempeño obtenido.
+
+7.3 una evaluación sobre los retos y condiciones para desplegar en producción un 
+modelo (como establecerías el nivel de desempeño mínimo para desplegar en producción, 
+cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño 
+en producción)
+
+### micro_tareas
+
+#### ENTREGA FINAL
+##### EN PROYECTO (con dataset)
+1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
+2. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
+
 # ENLACES INTERÉS
 ## Misceláneo
 - [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode)
