@@ -22,7 +22,6 @@
 - [This module provides a bridge between Scikit-Learn’s machine learning methods and pandas-style Data Frames: sklearn-pandas 1.5.0](https://pypi.org/project/sklearn-pandas/1.5.0/)
 ## Archivos de entregas PDF
 - enlace a arhivo PROYECTO_ENTREGA1.tex _**definitivo**_, overleaf : [Forest Cover Type Prediction, use cartographic variables to classify forest categories](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
-- enlace a arhivo PROYECTO_ENTREGA1.tex **opcional**, overleaf : [American express](https://www.overleaf.com/5998522951rfchkzvnzxtf)
 - enlace a arhivo PROYECTO_ENTREGA2.tex **_definitivo_**, overleaf : [Entrega 2](https://www.overleaf.com/1932649754ffysfmrjxnkk)
 
 ## DATASETS
