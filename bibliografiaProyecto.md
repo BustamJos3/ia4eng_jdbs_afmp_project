@@ -1,8 +1,3 @@
-#### ENTREGA FINAL
-##### EN PROYECTO (con dataset)
-1. División de test en: 1) test_validation, 2)test_test--->***Partirlos de manera que sea representativa
-2. Creación de métrica de ML y pruebas de implementación con datos de control sintéticos
-
 # ENLACES INTERÉS
 ## Misceláneo
 - [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode)
