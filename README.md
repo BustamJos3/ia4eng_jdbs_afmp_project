@@ -17,7 +17,7 @@ repositorio para el proyecto del curso Inteligencia Artificial para las Ciencias
 2. Token en formato .json para interactuar con la API de kaggle. [What is Kaggle API Key? How to get my Kaggle Key?](https://forum.jovian.ai/forum/t/what-is-kaggle-api-key-how-to-get-my-kaggle-key/17721)
 ### Obtención de datos
 #### Carga de token kaggle
-```
+```python
 #call API
 !pip install kaggle
 #upload kaggle token .json
@@ -26,7 +26,7 @@ files.upload()
 ```
 Se puede subir el token mediante la opción desplegada de subida de archivos
 #### Creación de DataFrame para _train_
-```
+```python
 #Make a directory named kaggle and copy the kaggle.json file there.
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
