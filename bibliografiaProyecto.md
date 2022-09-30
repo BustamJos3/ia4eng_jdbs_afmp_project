@@ -17,6 +17,7 @@
 - [ ] [Ejemplo de feature importance con forest of decision tress: Feature importances with a forest of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html#sphx-glr-auto-examples-ensemble-plot-forest-importances-py)
 - [Para plotear variables de manera independiente y ver su comportamiento respecto a la variable objetivo: 4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)
 - [sklearn.model_selection.train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+- [sklearn.tree: Decision Trees](https://scikit-learn.org/stable/modules/classes.html?highlight=tree#module-sklearn.tree)
 ## Feature selection therory
 - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 - [Recursive Feature Elimination (RFE) for Feature Selection in Python](https://machinelearningmastery.com/rfe-feature-selection-in-python/)
