@@ -47,3 +47,4 @@ df_train.head()
 ```
 ## Videos
 * [Video segunda entrega](https://youtu.be/uUKFDS-gIwA)
+* [Video entrega final]()
