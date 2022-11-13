@@ -18,6 +18,10 @@
 - [Para plotear variables de manera independiente y ver su comportamiento respecto a la variable objetivo: 4.1. Partial Dependence and Individual Conditional Expectation plots](https://scikit-learn.org/stable/modules/partial_dependence.html)
 - [sklearn.model_selection.train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 - [sklearn.tree: Decision Trees](https://scikit-learn.org/stable/modules/classes.html?highlight=tree#module-sklearn.tree)
+- [sklearn.neighbors.KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+- [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+
+- [sklearn.model_selection.GridSearchCV]([https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 ## Feature selection therory
 - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 - [Recursive Feature Elimination (RFE) for Feature Selection in Python](https://machinelearningmastery.com/rfe-feature-selection-in-python/)
@@ -25,6 +29,14 @@
 - [ ] [Feature Selection Techniques Easily Explained | Machine Learning](https://www.youtube.com/watch?v=EqLBAmtKMnQ&ab_channel=KrishNaik)
 - [This module provides a bridge between Scikit-Learn’s machine learning methods and pandas-style Data Frames: sklearn-pandas 1.5.0](https://pypi.org/project/sklearn-pandas/1.5.0/)
 - [ ] [Feature Selection for Scikit Learn, YT video](https://www.youtube.com/watch?v=wjKvyk8xStg&ab_channel=DataTalks)
+## Hyperparameter selection technniques
+- [Ajuste de Hiperparámetros de Modelos de Machine Learning | Aprendizaje de Máquina | Python | Sklearn](https://youtu.be/YAfS8-BXp8Q)
+## Raw theory of selected models
+### Supervised
+- []()
+- [K-Vecinos Más Cercanos (KNN) para Clasificación con Scikit-Learn y Python: Machine Learning](https://youtu.be/XN6fChNqfbs)
+### Unsupervised
+- [K-means (o K-medias) para detección de clusters: Algoritmo e implementación con sk-learn de Python](https://youtu.be/mICySHB0fh4)
 ## Archivos de entregas PDF
 - enlace a archivo PROYECTO_ENTREGA1.tex , overleaf : [Entrega 1](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a archivo PROYECTO_ENTREGA2.tex , overleaf : [Entrega 2](https://www.overleaf.com/1932649754ffysfmrjxnkk)
