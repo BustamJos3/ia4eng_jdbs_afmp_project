@@ -33,7 +33,7 @@
 - [Ajuste de Hiperparámetros de Modelos de Machine Learning | Aprendizaje de Máquina | Python | Sklearn](https://youtu.be/YAfS8-BXp8Q)
 ## Raw theory of selected models
 ### Supervised
-- []()
+- [Random Forest (Bosque Aleatorio) para Clasificación con Scikit-Learn y Python - Machine Learning](https://youtu.be/yOCJQLf_YFI)
 - [K-Vecinos Más Cercanos (KNN) para Clasificación con Scikit-Learn y Python: Machine Learning](https://youtu.be/XN6fChNqfbs)
 ### Unsupervised
 - [K-means (o K-medias) para detección de clusters: Algoritmo e implementación con sk-learn de Python](https://youtu.be/mICySHB0fh4)
