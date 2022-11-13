@@ -28,9 +28,9 @@
 ## Hyperparameter selection technniques
 - [Ajuste de Hiperparámetros de Modelos de Machine Learning | Aprendizaje de Máquina | Python | Sklearn](https://youtu.be/YAfS8-BXp8Q)
 ## Raw theory of selected models
-- []()
 ### Supervised
 - []()
+- [K-Vecinos Más Cercanos (KNN) para Clasificación con Scikit-Learn y Python: Machine Learning](https://youtu.be/XN6fChNqfbs)
 ### Unsupervised
 - []()
 ## Archivos de entregas PDF
