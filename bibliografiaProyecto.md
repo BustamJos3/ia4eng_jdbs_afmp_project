@@ -19,6 +19,9 @@
 - [sklearn.model_selection.train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 - [sklearn.tree: Decision Trees](https://scikit-learn.org/stable/modules/classes.html?highlight=tree#module-sklearn.tree)
 - [sklearn.neighbors.KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+- [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+
+- [sklearn.model_selection.GridSearchCV]([https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 ## Feature selection therory
 - [How to Choose a Feature Selection Method For Machine Learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 - [Recursive Feature Elimination (RFE) for Feature Selection in Python](https://machinelearningmastery.com/rfe-feature-selection-in-python/)
@@ -33,7 +36,7 @@
 - []()
 - [K-Vecinos Más Cercanos (KNN) para Clasificación con Scikit-Learn y Python: Machine Learning](https://youtu.be/XN6fChNqfbs)
 ### Unsupervised
-- []()
+- [K-means (o K-medias) para detección de clusters: Algoritmo e implementación con sk-learn de Python](https://youtu.be/mICySHB0fh4)
 ## Archivos de entregas PDF
 - enlace a archivo PROYECTO_ENTREGA1.tex , overleaf : [Entrega 1](https://www.overleaf.com/8579998717zjrrdcgmnpqk)
 - enlace a archivo PROYECTO_ENTREGA2.tex , overleaf : [Entrega 2](https://www.overleaf.com/1932649754ffysfmrjxnkk)
