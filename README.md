@@ -3,11 +3,6 @@ repositorio para el proyecto del curso Inteligencia Artificial para las Ciencias
 
 ## Rúbricas del README
 
-### Integrantes
-1. José David Bustamante Sierra, c.c: 1035440377, ingeniería mecánica.
-
-2. Andrea Fernanda Muegues Pedraza, c.c: 1102381554, ingeniería mecánica.
-
 ### Fuente de los datos usados
 [Forest Cover Type Prediction - Use cartographic variables to classify forest categories](https://www.kaggle.com/competitions/forest-cover-type-prediction/data)
 
@@ -45,6 +40,3 @@ with ZipFile(file_name, 'r') as zip:
 df_train = pd.read_csv('train.csv')
 df_train.head()
 ```
-## Videos
-* [Video segunda entrega](https://youtu.be/uUKFDS-gIwA)
-* [Video entrega final]()
